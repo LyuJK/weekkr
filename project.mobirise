@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "weekkr",
-    "currentPage": "inde.html",
+    "currentPage": "firstpage.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2460,7 +2460,7 @@
         }
       ]
     },
-    "inde.html": {
+    "firstpage.html": {
       "settings": {
         "main": true,
         "title": "Korean",
