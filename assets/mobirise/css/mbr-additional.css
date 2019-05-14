@@ -3662,7 +3662,7 @@ body {
 .cid-riBzRDx3nY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
 }
 .cid-riBzRDx3nY h4 {
   font-weight: 500;
@@ -3751,7 +3751,7 @@ body {
 .cid-rlP8cjfoKz .price-figure {
   font-weight: 700;
   color: #232323;
-  text-align: right;
+  text-align: center;
 }
 @media (max-width: 550px) {
   .cid-rlP8cjfoKz .price-figure {
@@ -4146,7 +4146,7 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rgwkFXrDjM {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rgwkFXrDjM .form-container {
   transition: all .2s;
